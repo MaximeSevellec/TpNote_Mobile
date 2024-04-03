@@ -1,16 +1,15 @@
-# td2_flutter
+## Pour lancer le projet :
+- Tout d'abord si besoin mettre a jour les dépendances du pubspec.yaml
+- Brancher votre téléphone et lancer le main.dart
+- Vous pouvez ensuite profiter des deux jeux de l'application.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ce qui a été fait 
+: 
+- Deux jeux implémentés (morpion et puissance 4)
+- Possibilité de jouer contre un bot
+- Différents niveaux avec la difficulté qui augmente a chaque niveau.
+- Historique des scores ( nom, victoire/défaite, nombre de coups effectuer)
+- Thèmes Dark
+- Possibilité de reset les données de l'application
+- Persistance des données, si on relance l'appli on peut revenir sur le niveau auxquels on était 
+    
